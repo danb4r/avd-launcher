@@ -25,9 +25,6 @@ void main() async {
 
         final input = stdin.readByteSync();
 
-        stdin.lineMode = true;
-        stdin.echoMode = true;
-
         print(String.fromCharCode(input));
         choice = int.tryParse(String.fromCharCode(input));
       } finally {
