@@ -8,7 +8,7 @@ An Android AVD command-line laucher app.
 
 ## download windows executable file
 
-[x64](https://)
+Find de 'avdl.exe' file in the '/bin' folder of the code. Ideally, add it to a local folder that is in your PATH variable.
 
 ## build your own to any dart supported platform
 
